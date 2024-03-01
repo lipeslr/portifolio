@@ -8,10 +8,10 @@ padding: 0;}
     width: 15px;
 }
 ::-webkit-scrollbar-track{
-    background-color: #ffffff;
+    background-color: #000000;
 }
 ::-webkit-scrollbar-thumb{
-    background-color: #FF9900;
+    background-color: #1100ff;
     border-radius: 10px;
 }
 
